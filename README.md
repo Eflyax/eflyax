@@ -1,7 +1,6 @@
 # 👋 Hi, I'm a Developer
 
 ![](https://komarev.com/ghpvc/?username=eflyax&color=blueviolet)
-![](https://stackoverflow.com/users/flair/4015346.png)
 
 I'm a **full-stack JavaScript developer** working professionally on modern web applications.  
 I enjoy turning ideas into clean, functional, and maintainable solutions.
@@ -56,3 +55,6 @@ JavaScript / TypeScript
 Node.js
 Vue.js
 PostgreSQL
+```
+
+![](https://stackoverflow.com/users/flair/4015346.png)
